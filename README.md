@@ -1,1 +1,1 @@
-# NetworkMeasures_Gephi_Challenge
+# Gephi Social Network Analysis Lab
